@@ -1,3 +1,3 @@
 cd /d %~dp0
 ::cd .\player
-start "" "FileCopy.exe" .\beast.ico "不要打开啊"
+start "" "FileCopy.exe" .\gift0.ico "濂藉浼欙紒"
